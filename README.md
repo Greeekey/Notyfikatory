@@ -7,5 +7,4 @@ Noti
 
 Ramki
 
-<img width="192" height="32" alt="framesmagua" src="https://github.com/user-attachments/assets/e36c67f2-ec32-410a-ac88-5f4221c4483e" />
-<img width="192" height="32" alt="framesmagua" src="https://github.com/user-attachments/assets/24118e75-3b43-4fff-b679-b9153a03a3b4" />
+<img width="192" height="32" alt="frames2" src="https://github.com/user-attachments/assets/6e290db5-0295-4351-b6b9-e038b291e51c" />
