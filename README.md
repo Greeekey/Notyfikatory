@@ -15,5 +15,6 @@ Ramki
 Og motyw
 <img width="1920" height="60" alt="dolpasek" src="https://github.com/user-attachments/assets/fdf45de4-7ec7-47e8-9a70-8ea5bd58d2ea" />
 <img width="1920" height="60" alt="gorapasek" src="https://github.com/user-attachments/assets/ce006edf-3936-436f-8d37-52a9a091eb9f" />
+<img width="253" height="859" alt="motywog1bokP" src="https://github.com/user-attachments/assets/f0c8631b-f16d-41bf-b83c-4c12bd43a5f7" />
 
 
