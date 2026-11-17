@@ -13,5 +13,7 @@ Ramki
 <img width="149" height="121" alt="gurnabelka1" src="https://github.com/user-attachments/assets/13e952f8-f3f9-42da-8afe-cc29448eeb79" />
 <img width="256" height="412" alt="czat1" src="https://github.com/user-attachments/assets/99bbe6fc-9eef-40b9-814e-5b06cc3c2bcb" />
 Og motyw
-<img width="1920" height="60" alt="motywog1" src="https://github.com/user-attachments/assets/a5151feb-265e-4855-b622-d2739138af42" />
+<img width="1920" height="60" alt="dolpasek" src="https://github.com/user-attachments/assets/fdf45de4-7ec7-47e8-9a70-8ea5bd58d2ea" />
+<img width="1920" height="60" alt="gorapasek" src="https://github.com/user-attachments/assets/ce006edf-3936-436f-8d37-52a9a091eb9f" />
+
 
